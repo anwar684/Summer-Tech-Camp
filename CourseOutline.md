@@ -4,10 +4,14 @@
 
 ### Week 1: Introduction and Computer Basics
 #### Session 1 (June 29)
-- Camp Introduction
+- Self Introduction 
 - Overview of Course Outline
-- Introduction to Computers: History, Types, and Uses
-  - [Video: Introduction to Computers](https://www.youtube.com/watch?v=xfKn5OjHLqQ&t=294s&ab_channel=KhanAcademyPartners)
+- Introduction to Computers: History, Uses, Types, and What Makes a Computer, a Computer?
+ - [Video: Introduction to Computers](https://www.youtube.com/watch?v=xfKn5OjHLqQ&t=294s&ab_channel=KhanAcademyPartners)
+- A look inside the computer
+ - [Video: Inside a computer](https://www.youtube.com/watch?v=HB4I2CgkcCo&ab_channel=LearnFree)
+- Basic Computer Hardware Components and Functions. 
+- Operating Systems: Windows, macOS, Linux
 
 #### Session 2 (June 30)
 - Operating Systems: Windows, macOS, Linux
