@@ -12,6 +12,27 @@
   - [Video: Inside a computer](https://www.youtube.com/watch?v=HB4I2CgkcCo&ab_channel=LearnFree)
 - Basic Computer Hardware Components and Functions. 
 - Operating Systems: Windows, macOS, Linux
+  - Windows 10 Operating System
+    - Desktop 
+    - Windows Explorer
+      - Back/forward buttons
+      - address bar
+      - search box
+      - toolbar/command bar
+      - menu bar
+      - sizing buttons
+      - navigation pane
+      - view
+      - moving a window
+      - snap feature
+    - Creating and Managing Folders and Files
+      - Creating folders
+      - Moving folders
+      - Renaming folders
+      - Deleting folders
+      - Open files or programs
+      - saving your works
+      - closing a program
 
 #### Session 2 (June 30)
 - Operating Systems: Windows, macOS, Linux
