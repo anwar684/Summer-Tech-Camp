@@ -7,6 +7,7 @@
 - Camp Introduction
 - Overview of Course Outline
 - Introduction to Computers: History, Types, and Uses
+  - [Video: Introduction to Computers](https://www.youtube.com/watch?v=xfKn5OjHLqQ&t=294s&ab_channel=KhanAcademyPartners)
 
 #### Session 2 (June 30)
 - Operating Systems: Windows, macOS, Linux
