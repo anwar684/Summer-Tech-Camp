@@ -35,16 +35,72 @@
     - closing a program
 
 #### Session 2 (June 30)
-- Operating Systems: Windows, macOS, Linux
-- Basic Computer Hardware Components and Functions
+- Bits and Bytes
+  - How do computers represent data?
+  - Binary & data
+    - [Video: Binary & Data](https://www.youtube.com/watch?v=ewokFOSxabs&t=323s&ab_channel=KhanAcademyPartners)
+  - Bits
+  - Bytes
+- The Internet
+  - What is the Internet
+    - [Video: What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M&t=195s&ab_channel=Code.org)
+  - Wires, Cables and WiFi
+    - [Video: Way of Communications](https://www.youtube.com/watch?v=qtmTMvXKKdg&t=176s&ab_channel=KhanAcademyPartners)
+  - Bit rate, Bandwidth and Latency
 
-### Week 2: Computer Basics Continued
+### Week 2: Tools
 #### Session 3 (July 6)
-- File Management: Creating, Organizing, and Managing Files and Folders
-- Basic Troubleshooting and Maintenance
+- Microsoft Word Basics
+
+  - Launching Microsoft Word in Windows 10
+  - Creating a new document
+  - Getting Familiar with Microsoft Word Interface
+  - Entering and Editing Text in Microsoft Word
+  - Copying Text Formatting using Format Painter
+  - Insert Hyperlink
+
+- Introduction to Google Docs
+- Microsoft PowerPoint Basics
+
+  - Launching Microsoft PowerPoint
+  - Creating a Blank Presentation
+  - The PowerPoint Workspace
+  - New Presentation (using predesigned template)
+  - Applying a Theme
+  - Inserting New Slides
+  - Adding Text to Slides
+  - Formatting Text
+  - Applying Transitions Between Slides
+  - Creating Charts
+  - Starting the Slide Show
+  - Applying Animations to Text or Objects
+
+- Introduction to Google slide
 
 #### Session 4 (July 7)
-- Introduction to the Internet and Web Browsing
+- Microsoft Excel Basics
+  - Launching Microsoft Excel in Windows
+  - Opening Excel Using Desktop Shortcut
+  - Creating a New Blank Workbook
+  - Understanding the Excel Interface
+  - Cell Addressing
+  - Entering Data in Excel
+  - Insert or Delete Rows and Columns
+  - Adjusting Column Width
+  - Creating a Formula in Excel
+  - Including Other Cells in Formula
+  - Quick Addition with AutoSum
+  - Using Functions in Excel
+  - Creating a Table
+  - Convert Table to Range
+  - Formatting Text in Excel
+  - Applying Cell Shading
+  - Sort and Filter
+  - Custom Sort in Excel
+  - Creating a Chart
+  
+- Introduction to Google sheet
+
 - Email Basics and Online Communication Tools
 
 ### Week 3: Tools
