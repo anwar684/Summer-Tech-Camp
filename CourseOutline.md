@@ -98,19 +98,34 @@
   - Sort and Filter
   - Custom Sort in Excel
   - Creating a Chart
-  
+
 - Introduction to Google sheet
 
 - Email Basics and Online Communication Tools
 
-### Week 3: Tools
+### Week 3: Programming With Scratch
 #### Session 5 (July 13)
-- Introduction to Common Software Tools (e.g., MS Office, Google Workspace)
-- Word Processing: Basics of MS Word/Google Docs
+- Introduction to Scratch
+- What is Code ?
+- X and Y Coordinates
+- Coordinates demo
+- Understanding Motion
+- Sprite Costumes
+- Sprite Sounds
+- Understanding Looks
+- Sounds in Scratch
+- Events
+
 
 #### Session 6 (July 14)
-- Spreadsheet Basics: Introduction to MS Excel/Google Sheets
-- Presentation Tools: Basics of MS PowerPoint/Google Slides
+- What are Operators ?
+- Controls
+- Sensing
+- What is Variable ? 
+- Difference between Local and Global variables
+- Understanding variable in Scratch
+- Understanding lists in Scratch
+- Game development
 
 ### Week 4: Web Development
 #### Session 7 (July 20)
